@@ -1,4 +1,4 @@
-##🏏 Bat Ball Stump Game
+#🏏 Bat Ball Stump Game
 Bat Ball Stump Game is a fun, web-based mini-game inspired by the classic hand-gesture game. In this game, you play against the computer by choosing between Bat, Ball, or Stump. The computer randomly picks its move, and the game decides the winner based on predefined rules.
 
 🎯 Features
